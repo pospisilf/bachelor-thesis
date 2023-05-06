@@ -46,7 +46,7 @@ public class ProcessPreferences {
         if (isAdvancedSetupUsed() && !customPath.isEmpty()) {
             return customPath;
         } else {
-            return "/libs/camel-lsp-server-1.9.1.jar";
+            return "libs/camel-lsp-server-1.9.1.jar";
         }
     }
 
