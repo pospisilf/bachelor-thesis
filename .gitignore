@@ -1,0 +1,14 @@
+.DS_Store
+target
+*.iml
+*.ipr
+*.iws
+*.jar
+*.nbm
+.DS_Store
+bin
+.metadata
+.idea
+libs/
+log-camel-lsp.out
+.vscode
