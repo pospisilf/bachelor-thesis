@@ -1,18 +1,18 @@
 # Apache Camel LSP Client for Apache NetBeans IDE
 
-A bachelor thesis project implementing a Language Server Protocol (LSP) client for Apache Camel integration framework in Apache NetBeans IDE.
+A bachelor's thesis project implementing a Language Server Protocol (LSP) client for the Apache Camel integration framework in the Apache NetBeans IDE.
 
 ## 📋 Project Overview
 
-This repository contains the implementation of a Language Server Protocol client that provides enhanced development support for Apache Camel projects in Apache NetBeans IDE. The project includes:
+This repository contains the implementation of a Language Server Protocol client that provides enhanced development support for Apache Camel projects in the Apache NetBeans IDE. The project includes:
 
 - **LSPClient**: A NetBeans module providing LSP integration for Apache Camel
-- **Thesis Documentation**: Complete bachelor thesis documentation in LaTeX format
+- **Thesis Documentation**: Complete bachelor’s thesis documentation in LaTeX
 - **Supporting Materials**: Figures, diagrams, and additional documentation
 
 ## 🎯 Project Goals
 
-The main objective of this bachelor thesis is to design and implement a language client for Apache NetBeans IDE that integrates with the existing Apache Camel Language Server developed by Red Hat. This integration provides:
+The main objective of this bachelor's thesis is to design and implement a language client for the Apache NetBeans IDE that integrates with the existing Apache Camel Language Server developed by Red Hat. This integration provides:
 
 - **Code Completion**: Intelligent code suggestions for Camel URI elements
 - **Validation**: Real-time validation of Camel routes and configurations
@@ -43,7 +43,7 @@ The main objective of this bachelor thesis is to design and implement a language
 - **Java 8+**: Required for building the NetBeans module
 - **Apache NetBeans IDE**: Target platform for the LSP client
 - **Maven 3.6+**: For dependency management and building
-- **LaTeX**: For compiling thesis documentation (optional)
+- **LaTeX**: For compiling the thesis documentation (optional)
 
 ### Building the NetBeans Module
 
@@ -121,7 +121,7 @@ The generated PDF will be available as `projekt.pdf`.
 
 ## 📊 Project Status
 
-This is a completed bachelor thesis project that demonstrates:
+This is a completed bachelor's thesis project that demonstrates:
 
 - ✅ Complete LSP client implementation
 - ✅ NetBeans module integration
@@ -136,11 +136,11 @@ Institution: VUT FIT (Brno University of Technology, Faculty of Information Tech
 
 ## 📄 License
 
-This project is part of a bachelor thesis and follows the academic guidelines of VUT FIT.
+This project is part of a bachelor's thesis and follows the academic guidelines of VUT FIT.
 
 ## 🤝 Contributing
 
-This is an academic project completed as part of a bachelor thesis. For questions or suggestions, please contact the author.
+This is an academic project completed as part of a bachelor's thesis. For questions or suggestions, please contact the author.
 
 ## 📖 References
 
@@ -151,4 +151,4 @@ This is an academic project completed as part of a bachelor thesis. For question
 
 ---
 
-*This repository contains both the implementation code and the complete bachelor thesis documentation in Czech language.*
+*This repository contains both the implementation code and the complete bachelor's thesis documentation in the Czech language.*
